@@ -1,0 +1,6 @@
+{
+  "name": "Trail Tribe India",
+  "description": "Discover unforgettable Sahyadri and Himalayan treks, join weekend group adventures from Pune and Mumbai, and find your outdoor tribe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
