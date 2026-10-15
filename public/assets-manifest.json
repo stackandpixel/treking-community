@@ -1,0 +1,54 @@
+{
+  "community": "Trail Tribe India",
+  "baseLocation": "Pune, Maharashtra, India",
+  "visualAssetRequirements": [
+    {
+      "slot": "hero_sahyadri_ridge",
+      "type": "image",
+      "aspectRatio": "16:9",
+      "targetPath": "/images/hero/hero_sahyadri_ridge.jpg",
+      "status": "configured_with_resilient_fallback",
+      "prompt": "Cinematic outdoor adventure photograph of a diverse group of adult Indian trekkers hiking along a dramatic Sahyadri mountain ridge in Maharashtra at sunrise, layered green mountains, mist drifting through valleys, realistic trekking backpacks and outdoor clothing, authentic natural poses, golden sunlight, adventurous atmosphere, premium travel editorial photography, wide landscape 16:9 composition, clear negative space on the left for website headline text, no text, no logos, no watermark."
+    },
+    {
+      "slot": "monsoon_western_ghats",
+      "type": "image",
+      "aspectRatio": "4:3",
+      "targetPath": "/images/treks/monsoon_western_ghats.jpg",
+      "status": "configured_with_resilient_fallback",
+      "prompt": "Photorealistic Indian trekking group hiking on a lush Western Ghats trail during monsoon, misty mountains, vibrant green vegetation, wet rocky trail, natural rain jackets and backpacks, realistic outdoor adventure photography, atmospheric cloudy light, landscape 4:3 composition, no text, no logos, no watermark."
+    },
+    {
+      "slot": "himalayan_expedition",
+      "type": "image",
+      "aspectRatio": "16:9",
+      "targetPath": "/images/treks/himalayan_expedition.jpg",
+      "status": "configured_with_resilient_fallback",
+      "prompt": "Small group of adult Indian trekkers hiking along a scenic Himalayan mountain trail, dramatic snow-capped peaks, expansive mountain landscape, authentic hiking equipment, crisp morning light, inspiring expedition atmosphere, premium adventure photography, wide 16:9 composition, no text, no logos, no watermark."
+    },
+    {
+      "slot": "camping_stargazing",
+      "type": "image",
+      "aspectRatio": "16:9",
+      "targetPath": "/images/treks/campsite_stargazing.jpg",
+      "status": "configured_with_resilient_fallback",
+      "prompt": "Small group of adult Indian trekkers relaxing beside a mountain campsite at dusk, tents illuminated by warm lantern light, layered mountain silhouettes, starry evening sky, realistic camping equipment, intimate outdoor community atmosphere, premium cinematic travel photography, wide landscape composition, no text, no logos, no watermark."
+    },
+    {
+      "slot": "sahyadri_fort_climb",
+      "type": "image",
+      "aspectRatio": "4:3",
+      "targetPath": "/images/treks/fort_sahyadri_climb.jpg",
+      "status": "configured_with_resilient_fallback",
+      "prompt": "Photorealistic adventure photograph of Indian trekkers ascending ancient carved stone steps of a dramatic Sahyadri hill fort in Maharashtra, steep verdant cliffs, morning valley mist below, authentic hiking backpacks, cinematic adventurous perspective, 4:3 composition, no text, no watermark."
+    },
+    {
+      "slot": "vertical_trail_reels",
+      "type": "video",
+      "aspectRatio": "9:16",
+      "targetPath": "/videos/reels/trail_reels_preview.mp4",
+      "status": "specified_for_production",
+      "description": "Short vertical clips showing rain on Tamhini forest leaves, 360-degree pan at Kalsubai summit sunrise, and climbing rock-cut steps of Harihar Fort."
+    }
+  ]
+}
